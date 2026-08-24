@@ -219,6 +219,16 @@ Optima Life should:
 The analysis demonstrates that sustainable growth is not simply a question of acquiring more customers. It requires understanding **which customers create long-term value, which products deserve investment, and where retention and expansion can strengthen the portfolio.**
 
 ---
+## View the Analysis
+
+The complete analytical workflows, including the SQL queries and Python analysis used to develop these recommendations, are available in the project notebooks:
+
+- 📈 [Growth Strategy Analysis](notebook/Growth_Strategy_Analysis.ipynb)
+- 📊 [Product Portfolio Strategy](notebook/Product_Portfolio_Strategy.ipynb)
+
+> **Note:** The original analysis was executed in a university-hosted Snowflake environment using a fictional SaaS dataset. The raw course dataset is not publicly distributed, so the notebooks are provided to demonstrate the analytical methodology, SQL/Python workflow, and supporting analysis.
+
+--
 
 # Technical Approach
 
